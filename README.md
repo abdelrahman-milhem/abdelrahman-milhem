@@ -1,5 +1,9 @@
 # About Me
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman-milhem&label=Profile%20Views&color=007acc&style=for-the-badge" alt="Profile Views" />
+</p>
+
 I am Abdel Rahman Milhem, a Software Developer focused on Mobile Application Development, AI, and Data Science. I build scalable applications and integrate machine learning models to solve practical problems.
 
 - Developing cross-platform mobile and web applications.
@@ -82,9 +86,3 @@ I am Abdel Rahman Milhem, a Software Developer focused on Mobile Application Dev
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-milhem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelrahman-milhem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
