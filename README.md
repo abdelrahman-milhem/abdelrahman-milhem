@@ -8,13 +8,13 @@ Hey there! 👋 I'm **Abdel Rahman Milhem**, a Software Developer passionate abo
 
 ---
 
-## 🌐 Connect with Me:
+🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-milhem-b51745418) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a.milhem.dev@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+💻 Tech Stack
 
 ### 📱 Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
