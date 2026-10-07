@@ -80,9 +80,13 @@ I am Abdel Rahman Milhem, a Software Developer focused on Mobile Application Dev
 # GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-milhem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- الصف الأول: الإحصائيات العامة بجانب اللغات الأكثر استخداماً -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-milhem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true" alt="GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-milhem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,cmake" alt="Top Languages" height="175" />
+
   <br/><br/>
+
+  <!-- الصف الثاني: بطاقة الاستمرارية والنشاط -->
   <img src="https://streak-stats.demolab.com/?user=abdelrahman-milhem&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-milhem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
